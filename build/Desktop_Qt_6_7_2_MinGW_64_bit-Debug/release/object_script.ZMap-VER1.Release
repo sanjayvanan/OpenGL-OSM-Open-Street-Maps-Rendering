@@ -1,0 +1,15 @@
+release/circlemenu.o
+release/databasemanager.o
+release/databasemenu.o
+release/linemenu.o
+release/main.o
+release/mainwindow.o
+release/pointmenu.o
+release/polygonmenu.o
+release/qrc_qml.o
+release/moc_circlemenu.o
+release/moc_databasemenu.o
+release/moc_linemenu.o
+release/moc_mainwindow.o
+release/moc_pointmenu.o
+release/moc_polygonmenu.o

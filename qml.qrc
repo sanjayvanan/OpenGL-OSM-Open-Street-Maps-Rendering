@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>res/material-dark.qss</file>
+        <file>res/ship1.png</file>
+        <file>res/ship2.png</file>
+        <file>res/zoomin.ico</file>
+        <file>res/zoomout.ico</file>
+        <file>res/background-1.jpg</file>
+        <file>Pointmenu.qml</file>
+        <file>Linemenu.qml</file>
+        <file>Polygonmenu.qml</file>
+        <file>Circlemenu.qml</file>
+        <file>res/wdelete.png</file>
+        <file>res/whide.png</file>
+        <file>res/wremove.png</file>
+        <file>res/wsave.png</file>
+        <file>res/wshow.png</file>
+        <file>PointItem.qml</file>
+        <file>ShapeItem.qml</file>
+    </qresource>
+</RCC>

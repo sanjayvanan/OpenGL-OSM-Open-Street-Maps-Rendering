@@ -1,0 +1,15 @@
+debug/circlemenu.o
+debug/databasemanager.o
+debug/databasemenu.o
+debug/linemenu.o
+debug/main.o
+debug/mainwindow.o
+debug/pointmenu.o
+debug/polygonmenu.o
+debug/qrc_qml.o
+debug/moc_circlemenu.o
+debug/moc_databasemenu.o
+debug/moc_linemenu.o
+debug/moc_mainwindow.o
+debug/moc_pointmenu.o
+debug/moc_polygonmenu.o
